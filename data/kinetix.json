@@ -1,12 +1,14 @@
 {
     "id": 148851662,
     "name": "Kinetix",
-    "author": "",
-    "creators": ["Nye2130"],
+    "author": "Nye2130",
+    "creators": [
+        "Nye2130"
+    ],
     "verifier": "Nye2130",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "68",
-    "password": "",
+    "percentToQualify": 68,
+    "password": "Free to Copy",
     "records": [
         {
             "user": "Sample_Victor_1",
