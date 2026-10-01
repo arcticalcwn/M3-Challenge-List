@@ -1,0 +1,28 @@
+{
+    "id": 137348536,
+    "name": "Goose Game GG",
+    "author": "arcticalcwn",
+    "creators": [
+        "arcticalcwn"
+    ],
+    "verifier": "arcticalcwn",
+    "verification": "https://www.youtube.com/watch?v=6AlbGvB0bqo",
+    "percentToQualify": 83,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
+ 
+v
