@@ -1,0 +1,27 @@
+{
+    "id": 125518183,
+    "name": "Vanisher",
+    "author": "arcticalcwn",
+    "creators": [
+        "arcticalcwn"
+    ],
+    "verifier": "arcticalcwn",
+    "verification": "https://www.youtube.com/watch?v=4prXmfXKYeI",
+    "percentToQualify": 66,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
+ 
