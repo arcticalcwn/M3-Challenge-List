@@ -1,0 +1,25 @@
+{
+    "id": 125569296,
+    "name": "Sakupen DD",
+    "author": "PXD439",
+    "creators": [
+        "PXD439"
+    ],
+    "verifier": "PXD439",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [        
+      {
+            "user": "arcticalcwn",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Nye2130",
+            "link": "",
+            "percent": 100,
+            "hz": 67
+        }
+    ]
